@@ -6,6 +6,7 @@
 <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" width="90px">
 <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" width="210px">
 <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" width="140px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVcu7xBMGdyBsUF-WOEM3lEopUcQPZOOQgy6LSay_NSQ&s=10" width="70px">
 
 <div/>
 
